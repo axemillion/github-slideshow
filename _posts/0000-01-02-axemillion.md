@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I remixed the remix... it was back to normal.
 Use the left arrow to go back!
